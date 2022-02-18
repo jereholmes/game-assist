@@ -1,0 +1,20 @@
+{
+  "name": "gameAssist",
+  "main": "index.js",
+  "homepage": "https://github.com/jereholmes/game-assist",
+  "authors": [
+    "jereholmes <holmesjeremiah756@gmail.com>"
+  ],
+  "description": "",
+  "keywords": [
+    "game"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
